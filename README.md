@@ -114,10 +114,3 @@ The **Details Grid** is designed as the **data exploration tool** of the report.
 - Transparent access to **raw election data** via tabular exploration.  
 
 ---
-
-## 🔗 Live Dashboard  
-👉 [Click here to view the Live Dashboard](YOUR_PBI_PUBLISH_LINK)  
-
-📂 PBIX file is also included in this repo for download.  
-
----
